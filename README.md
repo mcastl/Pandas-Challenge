@@ -8,8 +8,12 @@ This Pandas project aims to analyze the standarized test results from an school 
 PyCitySchools: Using Pandas to analyze school performance information.
 
 Findings: 
-* Charter Schools have a better performance with a passing rate almost 40% higher
-* Large Schools have a lower passing rate than small and medium schools   
+* The five best performing schools are all Charter type
+* The five worst performing schools are all District type
+* The lower the spending the greater the school performance
+* Charter Schools have a better performance with a passing rate almost 40% higher, this rate is specially driven by a better performance in math
+* Large Schools have a lower passing rate than small and medium schools
+ 
 ## Features
 * Analysis by District
 * Analysis by School
